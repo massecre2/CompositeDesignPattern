@@ -1,0 +1,8 @@
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\bin\Debug\07.12.2016-NesneTabanliVizeSonrasıilkDers-2.exe.config
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\bin\Debug\07.12.2016-NesneTabanliVizeSonrasıilkDers-2.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\bin\Debug\07.12.2016-NesneTabanliVizeSonrasıilkDers-2.pdb
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\obj\Debug\07.12.2016-NesneTabanliVizeSonrasıilkDers-2.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\obj\Debug\07.12.2016-NesneTabanliVizeSonrasıilkDers-2.pdb
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\bin\Debug\07.12.2016-NesneTabanliVizeSonrasıilkDers-2.exe.config
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\obj\Debug\07.12.2016-NesneTabanliVizeSonrasıilkDers-2.exe
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\07.12.2016-NesneTabanliVizeSonrasıilkDers-2\obj\Debug\07.12.2016-NesneTabanliVizeSonrasıilkDers-2.pdb
